@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 asd
+=======
+chanchito
+chanchito2
+chancho2
+>>>>>>> ramab

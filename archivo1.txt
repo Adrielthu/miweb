@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 adadfaf
+=======
+hola
+adgdg
+vaca3
+>>>>>>> ramab
